@@ -1,6 +1,6 @@
 {
   "set-button": {
-    "color": {
+    "button": {
       "primary": {
         "background": {
           "type": "color",
@@ -12,12 +12,12 @@
             "value": "{core.color.primary.base}"
           },
           "attributes": {
-            "category": "color",
+            "category": "button",
             "type": "primary",
             "item": "background"
           },
           "path": {
-            "0": "color",
+            "0": "button",
             "1": "primary",
             "2": "background"
           }
@@ -33,13 +33,13 @@
               "value": "1rem"
             },
             "attributes": {
-              "category": "color",
+              "category": "button",
               "type": "primary",
               "item": "padding",
               "subitem": "horizontal"
             },
             "path": {
-              "0": "color",
+              "0": "button",
               "1": "primary",
               "2": "padding",
               "3": "horizontal"
@@ -55,13 +55,13 @@
               "value": "0.75rem"
             },
             "attributes": {
-              "category": "color",
+              "category": "button",
               "type": "primary",
               "item": "padding",
               "subitem": "vertical"
             },
             "path": {
-              "0": "color",
+              "0": "button",
               "1": "primary",
               "2": "padding",
               "3": "vertical"
@@ -79,13 +79,13 @@
               "value": "0.25rem"
             },
             "attributes": {
-              "category": "color",
+              "category": "button",
               "type": "primary",
               "item": "border",
               "subitem": "radius"
             },
             "path": {
-              "0": "color",
+              "0": "button",
               "1": "primary",
               "2": "border",
               "3": "radius"
@@ -103,13 +103,13 @@
               "value": "{core.color.primary.dark}"
             },
             "attributes": {
-              "category": "color",
+              "category": "button",
               "type": "primary",
               "item": "hover",
               "subitem": "background"
             },
             "path": {
-              "0": "color",
+              "0": "button",
               "1": "primary",
               "2": "hover",
               "3": "background"
@@ -128,12 +128,12 @@
             "value": "transparent"
           },
           "attributes": {
-            "category": "color",
+            "category": "button",
             "type": "outline",
             "item": "background"
           },
           "path": {
-            "0": "color",
+            "0": "button",
             "1": "outline",
             "2": "background"
           }
@@ -149,13 +149,13 @@
               "value": "0.125rem"
             },
             "attributes": {
-              "category": "color",
+              "category": "button",
               "type": "outline",
               "item": "border",
               "subitem": "width"
             },
             "path": {
-              "0": "color",
+              "0": "button",
               "1": "outline",
               "2": "border",
               "3": "width"
@@ -171,13 +171,13 @@
               "value": "{core.color.dark.base}"
             },
             "attributes": {
-              "category": "color",
+              "category": "button",
               "type": "outline",
               "item": "border",
               "subitem": "color"
             },
             "path": {
-              "0": "color",
+              "0": "button",
               "1": "outline",
               "2": "border",
               "3": "color"
@@ -195,13 +195,13 @@
               "value": "{core.color.light.mild}"
             },
             "attributes": {
-              "category": "color",
+              "category": "button",
               "type": "outline",
               "item": "hover",
               "subitem": "background"
             },
             "path": {
-              "0": "color",
+              "0": "button",
               "1": "outline",
               "2": "hover",
               "3": "background"

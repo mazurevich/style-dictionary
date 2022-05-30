@@ -1,17 +1,8 @@
 /**
  * Do not edit directly
- * Generated on Mon, 30 May 2022 15:08:42 GMT
+ * Generated on Mon, 30 May 2022 15:11:40 GMT
  */
 
-export const ColorPrimaryBackground = "#00bcd4";
-export const ColorPrimaryPaddingHorizontal = "#000000";
-export const ColorPrimaryPaddingVertical = "#000000";
-export const ColorPrimaryBorderRadius = "#000000";
-export const ColorPrimaryHoverBackground = "#0097a7";
-export const ColorOutlineBackground = "#000000";
-export const ColorOutlineBorderWidth = "#000000";
-export const ColorOutlineBorderColor = "#263238";
-export const ColorOutlineHoverBackground = "#e0e0e0";
 export const CoreColorPrimaryBase = "#00bcd4";
 export const CoreColorPrimaryLight = "#b2ebf2";
 export const CoreColorPrimaryDark = "#0097a7";

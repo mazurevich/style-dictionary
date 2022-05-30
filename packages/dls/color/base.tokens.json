@@ -2,54 +2,52 @@
   "core": {
     "tokenset": "set-core",
     "color": {
-      "base": {
-        "primary": {
-          "base": {
-            "type": "color",
-            "value": "#00bcd4"
-          },
-          "light": {
-            "type": "color",
-            "value": "#b2ebf2"
-          },
-          "dark": {
-            "type": "color",
-            "value": "#0097a7"
-          }
-        },
-        "secondary": {
-          "base": {
-            "type": "color",
-            "value": "#ff5722"
-          },
-          "light": {
-            "type": "color",
-            "value": "#ff9800"
-          },
-          "dark": {
-            "type": "color",
-            "value": "#f44336"
-          }
-        },
-        "dark": {
-          "base": {
-            "type": "color",
-            "value": "#263238"
-          },
-          "mild": {
-            "type": "color",
-            "value": "#37474f"
-          }
+      "primary": {
+        "base": {
+          "type": "color",
+          "value": "#00bcd4"
         },
         "light": {
-          "base": {
-            "type": "color",
-            "value": "#f5f5f5"
-          },
-          "mild": {
-            "type": "color",
-            "value": "#e0e0e0"
-          }
+          "type": "color",
+          "value": "#b2ebf2"
+        },
+        "dark": {
+          "type": "color",
+          "value": "#0097a7"
+        }
+      },
+      "secondary": {
+        "base": {
+          "type": "color",
+          "value": "#ff5722"
+        },
+        "light": {
+          "type": "color",
+          "value": "#ff9800"
+        },
+        "dark": {
+          "type": "color",
+          "value": "#f44336"
+        }
+      },
+      "dark": {
+        "base": {
+          "type": "color",
+          "value": "#263238"
+        },
+        "mild": {
+          "type": "color",
+          "value": "#37474f"
+        }
+      },
+      "light": {
+        "base": {
+          "type": "color",
+          "value": "#f5f5f5"
+        },
+        "mild": {
+          "type": "color",
+          "value": "#e0e0e0"
         }
       }
     }

@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "eslint *.ts*",
     "clean": "rimraf generated",
-    "build": "npm run clean && style-dictionary generated"
+    "build": "npm run clean && style-dictionary build"
   },
   "devDependencies": {
     "@divriots/style-dictionary-to-figma": "^0.2.0",

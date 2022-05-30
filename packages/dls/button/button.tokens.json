@@ -1,0 +1,55 @@
+{
+  "color": {
+    "tokenset": "set-button",
+    "primary": {
+      "background": {
+        "type": "color",
+        "value": "{core.color.primary.base}"
+      },
+      "padding": {
+        "horizontal": {
+          "type": "spacing",
+          "value": "1rem"
+        },
+        "vertical": {
+          "type": "spacing",
+          "value": "0.75rem"
+        }
+      },
+      "border": {
+        "radius": {
+          "type": "borderRadius",
+          "value": "0.25rem"
+        }
+      },
+      "hover": {
+        "background": {
+          "type": "color",
+          "value": "{core.color.primary.dark}"
+        }
+      }
+    },
+    "outline": {
+      "background": {
+        "type": "color",
+        "value": "transparent"
+      },
+      "border": {
+        "width": {
+          "type": "sizing",
+          "value": "0.125rem"
+        },
+        "color": {
+          "type": "color",
+          "value": "{core.color.dark.base}"
+        }
+      },
+      "hover": {
+        "background": {
+          "type": "color",
+          "value": "{core.color.light.mild}"
+        }
+      }
+    }
+  }
+}

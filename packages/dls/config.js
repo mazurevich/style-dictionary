@@ -32,7 +32,7 @@ module.exports = {
   platforms: {
     css: {
       transformGroup: "css",
-      buildPath: "build/css/",
+      buildPath: "generated/css/",
       files: generateFilesArr(
         [...coreAndSemanticTokens, ...componentsTokens],
         "css",
@@ -41,17 +41,17 @@ module.exports = {
     },
     scss: {
       transformGroup: "scss",
-      buildPath: "build/scss/",
+      buildPath: "generated/scss/",
       files: generateFilesArr(coreAndSemanticTokens, "scss", "scss/variables"),
     },
     js: {
       transformGroup: "js",
-      buildPath: "build/js/",
+      buildPath: "generated/js/",
       files: generateFilesArr(coreAndSemanticTokens, "js", "javascript/es6"),
     },
     json: {
       transformGroup: "js",
-      buildPath: "build/",
+      buildPath: "generated/",
       files: [
         {
           destination: "figma-tokens.json",

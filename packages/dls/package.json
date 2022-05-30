@@ -5,8 +5,8 @@
   "license": "MIT",
   "scripts": {
     "lint": "eslint *.ts*",
-    "clean": "rimraf build",
-    "build": "npm run clean && style-dictionary build"
+    "clean": "rimraf generated",
+    "build": "npm run clean && style-dictionary generated"
   },
   "devDependencies": {
     "@divriots/style-dictionary-to-figma": "^0.2.0",

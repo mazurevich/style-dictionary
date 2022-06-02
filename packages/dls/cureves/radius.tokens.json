@@ -3,15 +3,15 @@
     "tokenset": "set-core",
     "border": {
       "small": {
-        "value": "4px",
+        "value": "4",
         "type": "border-radius"
       },
       "medium": {
-        "value": "8px",
+        "value": "8",
         "type": "border-radius"
       },
       "big": {
-        "value": "16px",
+        "value": "16",
         "type": "border-radius"
       }
     }

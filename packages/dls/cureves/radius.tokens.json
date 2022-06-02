@@ -4,15 +4,15 @@
     "border": {
       "small": {
         "value": "4",
-        "type": "BorderRadius"
+        "type": "Border Radius"
       },
       "medium": {
         "value": "8",
-        "type": "BorderRadius"
+        "type": "Border Radius"
       },
       "big": {
         "value": "16",
-        "type": "BorderRadius"
+        "type": "Border Radius"
       }
     }
   }

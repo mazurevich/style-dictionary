@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 02 Jun 2022 10:57:01 GMT
+ * Generated on Thu, 02 Jun 2022 10:57:32 GMT
  */
 
 export const CoreColorPrimaryBase = "#1565c0";

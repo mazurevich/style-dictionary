@@ -1,6 +1,6 @@
 {
-  "tokenset": "set-core",
   "grey": {
+    "tokenset": "set-core",
     "10": {
       "value": "#fafafa",
       "type": "color"
@@ -43,6 +43,7 @@
     }
   },
   "blue": {
+    "tokenset": "set-core",
     "10": {
       "value": "#e3f2fd",
       "type": "color"
@@ -85,6 +86,7 @@
     }
   },
   "green": {
+    "tokenset": "set-core",
     "10": {
       "value": "#e8f5e9",
       "type": "color"
@@ -127,6 +129,7 @@
     }
   },
   "yellow": {
+    "tokenset": "set-core",
     "10": {
       "value": "#fffde7",
       "type": "color"
@@ -169,6 +172,7 @@
     }
   },
   "white": {
+    "tokenset": "set-core",
     "value": "#ffffff",
     "type": "color"
   }

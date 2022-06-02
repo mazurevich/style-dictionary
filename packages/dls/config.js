@@ -55,7 +55,7 @@ module.exports = {
       files: [
         {
           destination: "figma-tokens.json",
-          format: "figmaTokensPlugin",
+          format: "json",
         },
       ],
     },

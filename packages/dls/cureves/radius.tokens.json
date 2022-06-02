@@ -1,0 +1,19 @@
+{
+  "radius": {
+    "tokenset": "set-core",
+    "border": {
+      "small": {
+        "value": "4px",
+        "type": "border-radius"
+      },
+      "medium": {
+        "value": "8px",
+        "type": "border-radius"
+      },
+      "big": {
+        "value": "16px",
+        "type": "border-radius"
+      }
+    }
+  }
+}

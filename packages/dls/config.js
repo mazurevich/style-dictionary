@@ -6,7 +6,7 @@ const componentsTokens = ["button"];
 
 const tokenFiler = (cat) => (token) => {
   const { category, type } = token.attributes;
-  return ["core", "semantic"].includes(category)
+  return ["core", "semantic", "palette"].includes(category)
     ? type === cat
     : category === cat;
 };

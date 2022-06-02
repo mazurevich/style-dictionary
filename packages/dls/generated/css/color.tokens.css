@@ -1,12 +1,12 @@
 /**
  * Do not edit directly
- * Generated on Thu, 02 Jun 2022 09:29:15 GMT
+ * Generated on Thu, 02 Jun 2022 10:47:35 GMT
  */
 
 :root {
-  --core-color-primary-base: #00bcd4;
-  --core-color-primary-light: #b2ebf2;
-  --core-color-primary-dark: #0097a7;
+  --core-color-primary-base: #1565c0;
+  --core-color-primary-light: #1976d2;
+  --core-color-primary-dark: #0d47a1;
   --core-color-secondary-base: #ff5722;
   --core-color-secondary-light: #ff9800;
   --core-color-secondary-dark: #f44336;

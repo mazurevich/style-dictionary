@@ -5,15 +5,15 @@
       "primary": {
         "base": {
           "type": "color",
-          "value": "#00bcd4"
+          "value": "{palette.blue.90}"
         },
         "light": {
           "type": "color",
-          "value": "#b2ebf2"
+          "value": "{palette.blue.80}"
         },
         "dark": {
           "type": "color",
-          "value": "#0097a7"
+          "value": "{palette.blue.100}"
         }
       },
       "secondary": {

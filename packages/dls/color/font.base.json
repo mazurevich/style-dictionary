@@ -1,9 +1,12 @@
 {
-  "color": {
-    "font": {
-      "base"     : { "value": "{color.base.red.value}" },
-      "secondary": { "value": "{color.base.green.value}" },
-      "tertiary" : { "value": "{color.base.gray.light.value}" }
+  "core": {
+    "token-set": "set-core",
+    "color": {
+      "font": {
+        "base": { "value": "{color.base.red.value}" },
+        "secondary": { "value": "{color.base.green.value}" },
+        "tertiary": { "value": "{color.base.gray.light.value}" }
+      }
     }
   }
 }

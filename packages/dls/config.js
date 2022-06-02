@@ -1,4 +1,4 @@
-const sdToFigma = require("@divriots/style-dictionary-to-figma");
+// const sdToFigma = require("@divriots/style-dictionary-to-figma");
 const { transform } = require("@divriots/style-dictionary-to-figma");
 
 const coreAndSemanticTokens = ["color", "size"];
@@ -34,28 +34,28 @@ module.exports = {
       transformGroup: "css",
       buildPath: "generated/css/",
       files: generateFilesArr(
-        [...coreAndSemanticTokens, ...componentsTokens],
+        ['palette'],
         "css",
         "css/variables"
       ),
     },
-    scss: {
-      transformGroup: "scss",
-      buildPath: "generated/scss/",
-      files: generateFilesArr(coreAndSemanticTokens, "scss", "scss/variables"),
-    },
-    js: {
-      transformGroup: "js",
-      buildPath: "generated/js/",
-      files: generateFilesArr(coreAndSemanticTokens, "js", "javascript/es6"),
-    },
+    // scss: {
+    //   transformGroup: "scss",
+    //   buildPath: "generated/scss/",
+    //   files: generateFilesArr(coreAndSemanticTokens, "scss", "scss/variables"),
+    // },
+    // js: {
+    //   transformGroup: "js",
+    //   buildPath: "generated/js/",
+    //   files: generateFilesArr(coreAndSemanticTokens, "js", "javascript/es6"),
+    // },
     json: {
       transformGroup: "js",
       buildPath: "generated/",
       files: [
         {
           destination: "figma-tokens.json",
-          format: "json",
+          format: "figmaTokensPlugin",
         },
       ],
     },

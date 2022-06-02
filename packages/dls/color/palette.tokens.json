@@ -1,6 +1,6 @@
 {
   "palette": {
-    "tokenset": "set-palette",
+    "tokenset": "set-core",
     "grey": {
       "10": {
         "value": "#fafafa",

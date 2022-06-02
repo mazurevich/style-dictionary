@@ -1,0 +1,38 @@
+{
+  "size-1": {
+    "value": "4",
+    "type": "sizing"
+  },
+  "space-1": {
+    "value": "4",
+    "type": "spacing"
+  },
+  "color-1": {
+    "value": "#a08a8a",
+    "type": "color"
+  },
+  "border-radius-1": {
+    "value": "4",
+    "type": "borderRadius"
+  },
+  "border-width-1": {
+    "value": "1",
+    "type": "borderWidth"
+  },
+  "opacity-1": {
+    "value": "0.9",
+    "type": "opacity"
+  },
+  "family-1": {
+    "value": "Roboto",
+    "type": "fontFamilies"
+  },
+  "font-weight-1": {
+    "value": "400",
+    "type": "fontWeights"
+  },
+  "font-size-1": {
+    "value": "14",
+    "type": "fontSizes"
+  }
+}

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 02 Jun 2022 10:57:32 GMT
+ * Generated on Thu, 02 Jun 2022 10:59:22 GMT
  */
 
 export const CoreSizeFontSmall = "0.75"; // the small size of the font

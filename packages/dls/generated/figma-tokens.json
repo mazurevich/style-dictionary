@@ -1033,12 +1033,12 @@
           }
         },
         "90": {
-          "value": "#1565c0",
+          "value": "#548933",
           "type": "color",
           "filePath": "color/palette.tokens.json",
           "isSource": true,
           "original": {
-            "value": "#1565c0",
+            "value": "#548933",
             "type": "color"
           },
           "attributes": {

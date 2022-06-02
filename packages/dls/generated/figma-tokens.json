@@ -1,833 +1,750 @@
 {
-  "set-core": {
-    "palette": {
-      "grey": {
-        "10": {
-          "value": "#fafafa",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#fafafa",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "grey",
-            "item": "10"
-          },
-          "path": {
-            "0": "palette",
-            "1": "grey",
-            "2": "10"
-          }
-        },
-        "20": {
-          "value": "#f5f5f5",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#f5f5f5",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "grey",
-            "item": "20"
-          },
-          "path": {
-            "0": "palette",
-            "1": "grey",
-            "2": "20"
-          }
-        },
-        "30": {
-          "value": "#eeeeee",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#eeeeee",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "grey",
-            "item": "30"
-          },
-          "path": {
-            "0": "palette",
-            "1": "grey",
-            "2": "30"
-          }
-        },
-        "40": {
-          "value": "#e0e0e0",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#e0e0e0",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "grey",
-            "item": "40"
-          },
-          "path": {
-            "0": "palette",
-            "1": "grey",
-            "2": "40"
-          }
-        },
-        "50": {
-          "value": "#bdbdbd",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#bdbdbd",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "grey",
-            "item": "50"
-          },
-          "path": {
-            "0": "palette",
-            "1": "grey",
-            "2": "50"
-          }
-        },
-        "60": {
-          "value": "#9e9e9e",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#9e9e9e",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "grey",
-            "item": "60"
-          },
-          "path": {
-            "0": "palette",
-            "1": "grey",
-            "2": "60"
-          }
-        },
-        "70": {
-          "value": "#757575",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#757575",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "grey",
-            "item": "70"
-          },
-          "path": {
-            "0": "palette",
-            "1": "grey",
-            "2": "70"
-          }
-        },
-        "80": {
-          "value": "#616161",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#616161",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "grey",
-            "item": "80"
-          },
-          "path": {
-            "0": "palette",
-            "1": "grey",
-            "2": "80"
-          }
-        },
-        "90": {
-          "value": "#424242",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#424242",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "grey",
-            "item": "90"
-          },
-          "path": {
-            "0": "palette",
-            "1": "grey",
-            "2": "90"
-          }
-        },
-        "100": {
-          "value": "#212121",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#212121",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "grey",
-            "item": "100"
-          },
-          "path": {
-            "0": "palette",
-            "1": "grey",
-            "2": "100"
-          }
-        }
+  "tokenset": "set-core",
+  "grey": {
+    "10": {
+      "value": "#fafafa",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#fafafa",
+        "type": "color"
       },
-      "blue": {
-        "10": {
-          "value": "#e3f2fd",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#e3f2fd",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "blue",
-            "item": "10"
-          },
-          "path": {
-            "0": "palette",
-            "1": "blue",
-            "2": "10"
-          }
-        },
-        "20": {
-          "value": "#bbdefb",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#bbdefb",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "blue",
-            "item": "20"
-          },
-          "path": {
-            "0": "palette",
-            "1": "blue",
-            "2": "20"
-          }
-        },
-        "30": {
-          "value": "#90caf9",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#90caf9",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "blue",
-            "item": "30"
-          },
-          "path": {
-            "0": "palette",
-            "1": "blue",
-            "2": "30"
-          }
-        },
-        "40": {
-          "value": "#64b5f6",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#64b5f6",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "blue",
-            "item": "40"
-          },
-          "path": {
-            "0": "palette",
-            "1": "blue",
-            "2": "40"
-          }
-        },
-        "50": {
-          "value": "#42a5f5",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#42a5f5",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "blue",
-            "item": "50"
-          },
-          "path": {
-            "0": "palette",
-            "1": "blue",
-            "2": "50"
-          }
-        },
-        "60": {
-          "value": "#2196f3",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#2196f3",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "blue",
-            "item": "60"
-          },
-          "path": {
-            "0": "palette",
-            "1": "blue",
-            "2": "60"
-          }
-        },
-        "70": {
-          "value": "#1e88e5",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#1e88e5",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "blue",
-            "item": "70"
-          },
-          "path": {
-            "0": "palette",
-            "1": "blue",
-            "2": "70"
-          }
-        },
-        "80": {
-          "value": "#1976d2",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#1976d2",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "blue",
-            "item": "80"
-          },
-          "path": {
-            "0": "palette",
-            "1": "blue",
-            "2": "80"
-          }
-        },
-        "90": {
-          "value": "#548933",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#548933",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "blue",
-            "item": "90"
-          },
-          "path": {
-            "0": "palette",
-            "1": "blue",
-            "2": "90"
-          }
-        },
-        "100": {
-          "value": "#0d47a1",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#0d47a1",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "blue",
-            "item": "100"
-          },
-          "path": {
-            "0": "palette",
-            "1": "blue",
-            "2": "100"
-          }
-        }
+      "attributes": {
+        "category": "grey",
+        "type": "10"
       },
-      "green": {
-        "10": {
-          "value": "#e8f5e9",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#e8f5e9",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "green",
-            "item": "10"
-          },
-          "path": {
-            "0": "palette",
-            "1": "green",
-            "2": "10"
-          }
-        },
-        "20": {
-          "value": "#c8e6c9",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#c8e6c9",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "green",
-            "item": "20"
-          },
-          "path": {
-            "0": "palette",
-            "1": "green",
-            "2": "20"
-          }
-        },
-        "30": {
-          "value": "#a5d6a7",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#a5d6a7",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "green",
-            "item": "30"
-          },
-          "path": {
-            "0": "palette",
-            "1": "green",
-            "2": "30"
-          }
-        },
-        "40": {
-          "value": "#81c784",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#81c784",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "green",
-            "item": "40"
-          },
-          "path": {
-            "0": "palette",
-            "1": "green",
-            "2": "40"
-          }
-        },
-        "50": {
-          "value": "#66bb6a",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#66bb6a",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "green",
-            "item": "50"
-          },
-          "path": {
-            "0": "palette",
-            "1": "green",
-            "2": "50"
-          }
-        },
-        "60": {
-          "value": "#4caf50",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#4caf50",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "green",
-            "item": "60"
-          },
-          "path": {
-            "0": "palette",
-            "1": "green",
-            "2": "60"
-          }
-        },
-        "70": {
-          "value": "#43a047",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#43a047",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "green",
-            "item": "70"
-          },
-          "path": {
-            "0": "palette",
-            "1": "green",
-            "2": "70"
-          }
-        },
-        "80": {
-          "value": "#388e3c",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#388e3c",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "green",
-            "item": "80"
-          },
-          "path": {
-            "0": "palette",
-            "1": "green",
-            "2": "80"
-          }
-        },
-        "90": {
-          "value": "#2e7d32",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#2e7d32",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "green",
-            "item": "90"
-          },
-          "path": {
-            "0": "palette",
-            "1": "green",
-            "2": "90"
-          }
-        },
-        "100": {
-          "value": "#1b5e20",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#1b5e20",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "green",
-            "item": "100"
-          },
-          "path": {
-            "0": "palette",
-            "1": "green",
-            "2": "100"
-          }
-        }
-      },
-      "yellow": {
-        "10": {
-          "value": "#fffde7",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#fffde7",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "yellow",
-            "item": "10"
-          },
-          "path": {
-            "0": "palette",
-            "1": "yellow",
-            "2": "10"
-          }
-        },
-        "20": {
-          "value": "#fff9c4",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#fff9c4",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "yellow",
-            "item": "20"
-          },
-          "path": {
-            "0": "palette",
-            "1": "yellow",
-            "2": "20"
-          }
-        },
-        "30": {
-          "value": "#fff59d",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#fff59d",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "yellow",
-            "item": "30"
-          },
-          "path": {
-            "0": "palette",
-            "1": "yellow",
-            "2": "30"
-          }
-        },
-        "40": {
-          "value": "#fff176",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#fff176",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "yellow",
-            "item": "40"
-          },
-          "path": {
-            "0": "palette",
-            "1": "yellow",
-            "2": "40"
-          }
-        },
-        "50": {
-          "value": "#ffee58",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#ffee58",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "yellow",
-            "item": "50"
-          },
-          "path": {
-            "0": "palette",
-            "1": "yellow",
-            "2": "50"
-          }
-        },
-        "60": {
-          "value": "#ffeb3b",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#ffeb3b",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "yellow",
-            "item": "60"
-          },
-          "path": {
-            "0": "palette",
-            "1": "yellow",
-            "2": "60"
-          }
-        },
-        "70": {
-          "value": "#fdd835",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#fdd835",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "yellow",
-            "item": "70"
-          },
-          "path": {
-            "0": "palette",
-            "1": "yellow",
-            "2": "70"
-          }
-        },
-        "80": {
-          "value": "#fbc02d",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#fbc02d",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "yellow",
-            "item": "80"
-          },
-          "path": {
-            "0": "palette",
-            "1": "yellow",
-            "2": "80"
-          }
-        },
-        "90": {
-          "value": "#f9a825",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#f9a825",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "yellow",
-            "item": "90"
-          },
-          "path": {
-            "0": "palette",
-            "1": "yellow",
-            "2": "90"
-          }
-        },
-        "100": {
-          "value": "#f57f17",
-          "type": "color",
-          "filePath": "color/palette.tokens.json",
-          "isSource": true,
-          "original": {
-            "value": "#f57f17",
-            "type": "color"
-          },
-          "attributes": {
-            "category": "palette",
-            "type": "yellow",
-            "item": "100"
-          },
-          "path": {
-            "0": "palette",
-            "1": "yellow",
-            "2": "100"
-          }
-        }
-      },
-      "white": {
-        "value": "#ffffff",
-        "type": "color",
-        "filePath": "color/palette.tokens.json",
-        "isSource": true,
-        "original": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "attributes": {
-          "category": "palette",
-          "type": "white"
-        },
-        "path": {
-          "0": "palette",
-          "1": "white"
-        }
+      "path": {
+        "0": "grey",
+        "1": "10"
       }
     },
+    "20": {
+      "value": "#f5f5f5",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#f5f5f5",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "grey",
+        "type": "20"
+      },
+      "path": {
+        "0": "grey",
+        "1": "20"
+      }
+    },
+    "30": {
+      "value": "#eeeeee",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#eeeeee",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "grey",
+        "type": "30"
+      },
+      "path": {
+        "0": "grey",
+        "1": "30"
+      }
+    },
+    "40": {
+      "value": "#e0e0e0",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#e0e0e0",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "grey",
+        "type": "40"
+      },
+      "path": {
+        "0": "grey",
+        "1": "40"
+      }
+    },
+    "50": {
+      "value": "#bdbdbd",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#bdbdbd",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "grey",
+        "type": "50"
+      },
+      "path": {
+        "0": "grey",
+        "1": "50"
+      }
+    },
+    "60": {
+      "value": "#9e9e9e",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#9e9e9e",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "grey",
+        "type": "60"
+      },
+      "path": {
+        "0": "grey",
+        "1": "60"
+      }
+    },
+    "70": {
+      "value": "#757575",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#757575",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "grey",
+        "type": "70"
+      },
+      "path": {
+        "0": "grey",
+        "1": "70"
+      }
+    },
+    "80": {
+      "value": "#616161",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#616161",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "grey",
+        "type": "80"
+      },
+      "path": {
+        "0": "grey",
+        "1": "80"
+      }
+    },
+    "90": {
+      "value": "#424242",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#424242",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "grey",
+        "type": "90"
+      },
+      "path": {
+        "0": "grey",
+        "1": "90"
+      }
+    },
+    "100": {
+      "value": "#212121",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#212121",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "grey",
+        "type": "100"
+      },
+      "path": {
+        "0": "grey",
+        "1": "100"
+      }
+    }
+  },
+  "blue": {
+    "10": {
+      "value": "#e3f2fd",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#e3f2fd",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "blue",
+        "type": "10"
+      },
+      "path": {
+        "0": "blue",
+        "1": "10"
+      }
+    },
+    "20": {
+      "value": "#bbdefb",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#bbdefb",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "blue",
+        "type": "20"
+      },
+      "path": {
+        "0": "blue",
+        "1": "20"
+      }
+    },
+    "30": {
+      "value": "#90caf9",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#90caf9",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "blue",
+        "type": "30"
+      },
+      "path": {
+        "0": "blue",
+        "1": "30"
+      }
+    },
+    "40": {
+      "value": "#64b5f6",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#64b5f6",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "blue",
+        "type": "40"
+      },
+      "path": {
+        "0": "blue",
+        "1": "40"
+      }
+    },
+    "50": {
+      "value": "#42a5f5",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#42a5f5",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "blue",
+        "type": "50"
+      },
+      "path": {
+        "0": "blue",
+        "1": "50"
+      }
+    },
+    "60": {
+      "value": "#2196f3",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#2196f3",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "blue",
+        "type": "60"
+      },
+      "path": {
+        "0": "blue",
+        "1": "60"
+      }
+    },
+    "70": {
+      "value": "#1e88e5",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#1e88e5",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "blue",
+        "type": "70"
+      },
+      "path": {
+        "0": "blue",
+        "1": "70"
+      }
+    },
+    "80": {
+      "value": "#1976d2",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#1976d2",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "blue",
+        "type": "80"
+      },
+      "path": {
+        "0": "blue",
+        "1": "80"
+      }
+    },
+    "90": {
+      "value": "#548933",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#548933",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "blue",
+        "type": "90"
+      },
+      "path": {
+        "0": "blue",
+        "1": "90"
+      }
+    },
+    "100": {
+      "value": "#0d47a1",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#0d47a1",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "blue",
+        "type": "100"
+      },
+      "path": {
+        "0": "blue",
+        "1": "100"
+      }
+    }
+  },
+  "green": {
+    "10": {
+      "value": "#e8f5e9",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#e8f5e9",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "green",
+        "type": "10"
+      },
+      "path": {
+        "0": "green",
+        "1": "10"
+      }
+    },
+    "20": {
+      "value": "#c8e6c9",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#c8e6c9",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "green",
+        "type": "20"
+      },
+      "path": {
+        "0": "green",
+        "1": "20"
+      }
+    },
+    "30": {
+      "value": "#a5d6a7",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#a5d6a7",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "green",
+        "type": "30"
+      },
+      "path": {
+        "0": "green",
+        "1": "30"
+      }
+    },
+    "40": {
+      "value": "#81c784",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#81c784",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "green",
+        "type": "40"
+      },
+      "path": {
+        "0": "green",
+        "1": "40"
+      }
+    },
+    "50": {
+      "value": "#66bb6a",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#66bb6a",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "green",
+        "type": "50"
+      },
+      "path": {
+        "0": "green",
+        "1": "50"
+      }
+    },
+    "60": {
+      "value": "#4caf50",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#4caf50",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "green",
+        "type": "60"
+      },
+      "path": {
+        "0": "green",
+        "1": "60"
+      }
+    },
+    "70": {
+      "value": "#43a047",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#43a047",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "green",
+        "type": "70"
+      },
+      "path": {
+        "0": "green",
+        "1": "70"
+      }
+    },
+    "80": {
+      "value": "#388e3c",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#388e3c",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "green",
+        "type": "80"
+      },
+      "path": {
+        "0": "green",
+        "1": "80"
+      }
+    },
+    "90": {
+      "value": "#2e7d32",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#2e7d32",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "green",
+        "type": "90"
+      },
+      "path": {
+        "0": "green",
+        "1": "90"
+      }
+    },
+    "100": {
+      "value": "#1b5e20",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#1b5e20",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "green",
+        "type": "100"
+      },
+      "path": {
+        "0": "green",
+        "1": "100"
+      }
+    }
+  },
+  "yellow": {
+    "10": {
+      "value": "#fffde7",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#fffde7",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "yellow",
+        "type": "10"
+      },
+      "path": {
+        "0": "yellow",
+        "1": "10"
+      }
+    },
+    "20": {
+      "value": "#fff9c4",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#fff9c4",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "yellow",
+        "type": "20"
+      },
+      "path": {
+        "0": "yellow",
+        "1": "20"
+      }
+    },
+    "30": {
+      "value": "#fff59d",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#fff59d",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "yellow",
+        "type": "30"
+      },
+      "path": {
+        "0": "yellow",
+        "1": "30"
+      }
+    },
+    "40": {
+      "value": "#fff176",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#fff176",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "yellow",
+        "type": "40"
+      },
+      "path": {
+        "0": "yellow",
+        "1": "40"
+      }
+    },
+    "50": {
+      "value": "#ffee58",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#ffee58",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "yellow",
+        "type": "50"
+      },
+      "path": {
+        "0": "yellow",
+        "1": "50"
+      }
+    },
+    "60": {
+      "value": "#ffeb3b",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#ffeb3b",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "yellow",
+        "type": "60"
+      },
+      "path": {
+        "0": "yellow",
+        "1": "60"
+      }
+    },
+    "70": {
+      "value": "#fdd835",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#fdd835",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "yellow",
+        "type": "70"
+      },
+      "path": {
+        "0": "yellow",
+        "1": "70"
+      }
+    },
+    "80": {
+      "value": "#fbc02d",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#fbc02d",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "yellow",
+        "type": "80"
+      },
+      "path": {
+        "0": "yellow",
+        "1": "80"
+      }
+    },
+    "90": {
+      "value": "#f9a825",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#f9a825",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "yellow",
+        "type": "90"
+      },
+      "path": {
+        "0": "yellow",
+        "1": "90"
+      }
+    },
+    "100": {
+      "value": "#f57f17",
+      "type": "color",
+      "filePath": "color/palette.tokens.json",
+      "isSource": true,
+      "original": {
+        "value": "#f57f17",
+        "type": "color"
+      },
+      "attributes": {
+        "category": "yellow",
+        "type": "100"
+      },
+      "path": {
+        "0": "yellow",
+        "1": "100"
+      }
+    }
+  },
+  "white": {
+    "value": "#ffffff",
+    "type": "color",
+    "filePath": "color/palette.tokens.json",
+    "isSource": true,
+    "original": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "attributes": {
+      "category": "white"
+    },
+    "path": {
+      "0": "white"
+    }
+  },
+  "set-core": {
     "core": {
       "size": {
         "font": {

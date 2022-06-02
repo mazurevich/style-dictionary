@@ -539,13 +539,13 @@
     "radius": {
       "border": {
         "small": {
-          "value": "4px",
-          "type": "border-radius",
+          "value": "4",
+          "type": "BorderRadius",
           "filePath": "cureves/radius.tokens.json",
           "isSource": true,
           "original": {
-            "value": "4px",
-            "type": "border-radius"
+            "value": "4",
+            "type": "BorderRadius"
           },
           "attributes": {
             "category": "radius",
@@ -559,13 +559,13 @@
           }
         },
         "medium": {
-          "value": "8px",
-          "type": "border-radius",
+          "value": "8",
+          "type": "BorderRadius",
           "filePath": "cureves/radius.tokens.json",
           "isSource": true,
           "original": {
-            "value": "8px",
-            "type": "border-radius"
+            "value": "8",
+            "type": "BorderRadius"
           },
           "attributes": {
             "category": "radius",
@@ -579,13 +579,13 @@
           }
         },
         "big": {
-          "value": "16px",
-          "type": "border-radius",
+          "value": "16",
+          "type": "BorderRadius",
           "filePath": "cureves/radius.tokens.json",
           "isSource": true,
           "original": {
-            "value": "16px",
-            "type": "border-radius"
+            "value": "16",
+            "type": "BorderRadius"
           },
           "attributes": {
             "category": "radius",

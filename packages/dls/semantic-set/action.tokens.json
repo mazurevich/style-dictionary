@@ -3,24 +3,30 @@
     "tokenset": "set-semantic",
     "primary": {
       "base": {
-        "value": "{palette.blue.80}"
+        "value": "{palette.blue.80}",
+        "type": "color"
       },
       "dark": {
-        "value": "{palette.blue.90}"
+        "value": "{palette.blue.90}",
+        "type": "color"
       },
       "light": {
-        "value": "{palette.blue.60}"
+        "value": "{palette.blue.60}",
+        "type": "color"
       }
     },
     "secondary": {
       "base": {
-        "value": "{palette.yellow.20}"
+        "value": "{palette.yellow.20}",
+        "type": "color"
       },
       "dark": {
-        "value": "{palette.yellow.50}"
+        "value": "{palette.yellow.50}",
+        "type": "color"
       },
       "light": {
-        "value": "{palette.yellow.10}"
+        "value": "{palette.yellow.10}",
+        "type": "color"
       }
     }
   }

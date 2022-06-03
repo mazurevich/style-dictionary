@@ -3,7 +3,8 @@
     "tokenset": "set-semantic",
     "success": {
       "base": {
-        "value": "{palette.green.80}"
+        "value": "{palette.green.80}",
+        "type": "color"
       }
     }
   }

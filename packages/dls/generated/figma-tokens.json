@@ -1329,10 +1329,12 @@
       "primary": {
         "base": {
           "value": "{palette.blue.80}",
+          "type": "color",
           "filePath": "semantic-set/action.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{palette.blue.80}"
+            "value": "{palette.blue.80}",
+            "type": "color"
           },
           "attributes": {
             "category": "action",
@@ -1347,10 +1349,12 @@
         },
         "dark": {
           "value": "{palette.blue.90}",
+          "type": "color",
           "filePath": "semantic-set/action.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{palette.blue.90}"
+            "value": "{palette.blue.90}",
+            "type": "color"
           },
           "attributes": {
             "category": "action",
@@ -1365,10 +1369,12 @@
         },
         "light": {
           "value": "{palette.blue.60}",
+          "type": "color",
           "filePath": "semantic-set/action.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{palette.blue.60}"
+            "value": "{palette.blue.60}",
+            "type": "color"
           },
           "attributes": {
             "category": "action",
@@ -1385,10 +1391,12 @@
       "secondary": {
         "base": {
           "value": "{palette.yellow.20}",
+          "type": "color",
           "filePath": "semantic-set/action.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{palette.yellow.20}"
+            "value": "{palette.yellow.20}",
+            "type": "color"
           },
           "attributes": {
             "category": "action",
@@ -1403,10 +1411,12 @@
         },
         "dark": {
           "value": "{palette.yellow.50}",
+          "type": "color",
           "filePath": "semantic-set/action.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{palette.yellow.50}"
+            "value": "{palette.yellow.50}",
+            "type": "color"
           },
           "attributes": {
             "category": "action",
@@ -1421,10 +1431,12 @@
         },
         "light": {
           "value": "{palette.yellow.10}",
+          "type": "color",
           "filePath": "semantic-set/action.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{palette.yellow.10}"
+            "value": "{palette.yellow.10}",
+            "type": "color"
           },
           "attributes": {
             "category": "action",
@@ -1443,10 +1455,12 @@
       "success": {
         "base": {
           "value": "{palette.green.80}",
+          "type": "color",
           "filePath": "semantic-set/result.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{palette.green.80}"
+            "value": "{palette.green.80}",
+            "type": "color"
           },
           "attributes": {
             "category": "result",

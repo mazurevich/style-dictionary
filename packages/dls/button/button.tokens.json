@@ -25,7 +25,7 @@
       "hover": {
         "background": {
           "type": "color",
-          "value": "{action.primary.dark}"
+          "value": "{action.primary.light}"
         }
       },
       "focus": {

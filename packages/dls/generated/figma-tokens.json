@@ -95,12 +95,12 @@
         "hover": {
           "background": {
             "type": "color",
-            "value": "{action.primary.dark}",
+            "value": "{action.primary.light}",
             "filePath": "button/button.tokens.json",
             "isSource": true,
             "original": {
               "type": "color",
-              "value": "{action.primary.dark}"
+              "value": "{action.primary.light}"
             },
             "attributes": {
               "category": "button",

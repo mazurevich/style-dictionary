@@ -28,6 +28,10 @@
         "value": "{palette.yellow.10}",
         "type": "color"
       }
+    },
+    "disabled": {
+      "value": "{palette.grey.20}",
+      "type": "color"
     }
   }
 }

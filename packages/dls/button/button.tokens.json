@@ -37,7 +37,7 @@
       "disabled": {
         "background": {
           "type": "color",
-          "value": "{action.primary.light}"
+          "value": "{action.disabled}"
         }
       }
     }

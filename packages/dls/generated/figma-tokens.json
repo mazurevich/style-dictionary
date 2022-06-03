@@ -143,12 +143,12 @@
         "disabled": {
           "background": {
             "type": "color",
-            "value": "{action.primary.light}",
+            "value": "{action.disabled}",
             "filePath": "button/button.tokens.json",
             "isSource": true,
             "original": {
               "type": "color",
-              "value": "{action.primary.light}"
+              "value": "{action.disabled}"
             },
             "attributes": {
               "category": "button",
@@ -1496,6 +1496,24 @@
             "1": "secondary",
             "2": "light"
           }
+        }
+      },
+      "disabled": {
+        "value": "{palette.grey.20}",
+        "type": "color",
+        "filePath": "semantic-set/action.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "{palette.grey.20}",
+          "type": "color"
+        },
+        "attributes": {
+          "category": "action",
+          "type": "disabled"
+        },
+        "path": {
+          "0": "action",
+          "1": "disabled"
         }
       }
     },

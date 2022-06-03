@@ -1,0 +1,33 @@
+{
+  "button": {
+    "tokenset": "set-button",
+    "primary": {
+      "background": {
+        "type": "color",
+        "value": "{action.primary.base}"
+      },
+      "padding": {
+        "horizontal": {
+          "type": "spacing",
+          "value": "1rem"
+        },
+        "vertical": {
+          "type": "spacing",
+          "value": "0.75rem"
+        }
+      },
+      "border": {
+        "radius": {
+          "type": "borderRadius",
+          "value": "{radius.md}"
+        }
+      },
+      "hover": {
+        "background": {
+          "type": "color",
+          "value": "{action.primary.dark}"
+        }
+      }
+    }
+  }
+}

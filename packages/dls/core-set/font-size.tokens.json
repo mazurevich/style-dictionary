@@ -1,0 +1,29 @@
+{
+  "font-size": {
+    "tokenset": "set-core",
+    "xs": {
+      "value": "8",
+      "type": "fontSizes"
+    },
+    "sm": {
+      "value": "10",
+      "type": "fontSizes"
+    },
+    "md": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "lg": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "xl": {
+      "value": "24",
+      "type": "fontSizes"
+    },
+    "xxl": {
+      "value": "32",
+      "type": "fontSizes"
+    }
+  }
+}

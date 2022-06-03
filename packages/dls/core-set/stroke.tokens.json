@@ -1,0 +1,17 @@
+{
+  "stroke": {
+    "tokenset": "set-core",
+    "sm": {
+      "value": "1px",
+      "type": "borderWidth"
+    },
+    "md": {
+      "value": "2px",
+      "type": "borderWidth"
+    },
+    "lg": {
+      "value": "3px",
+      "type": "borderWidth"
+    }
+  }
+}

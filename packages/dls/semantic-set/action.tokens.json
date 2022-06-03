@@ -1,0 +1,27 @@
+{
+  "action": {
+    "tokenset": "set-semantic",
+    "primary": {
+      "base": {
+        "value": "{palette.blue.80}"
+      },
+      "dark": {
+        "value": "{palette.blue.90}"
+      },
+      "light": {
+        "value": "{palette.blue.60}"
+      }
+    },
+    "secondary": {
+      "base": {
+        "value": "{palette.yellow.20}"
+      },
+      "dark": {
+        "value": "{palette.yellow.50}"
+      },
+      "light": {
+        "value": "{palette.yellow.10}"
+      }
+    }
+  }
+}

@@ -6,7 +6,7 @@ const componentsTokens = ["button"];
 
 const tokenFiler = (cat) => (token) => {
   const { category, type } = token.attributes;
-  return ["core", "semantic", "palette"].includes(category)
+  return ["core-set", "semantic"].includes(category)
     ? type === cat
     : category === cat;
 };
@@ -34,7 +34,15 @@ module.exports = {
       transformGroup: "css",
       buildPath: "generated/css/",
       files: generateFilesArr(
-        ['palette'],
+        [
+          "font-size",
+          "palette",
+          "radius",
+          "stroke",
+          "action",
+          "result",
+          "button",
+        ],
         "css",
         "css/variables"
       ),
@@ -59,7 +67,5 @@ module.exports = {
         },
       ],
     },
-
-
   },
 };

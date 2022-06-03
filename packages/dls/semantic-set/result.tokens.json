@@ -1,0 +1,10 @@
+{
+  "result": {
+    "tokenset": "set-semantic",
+    "success": {
+      "base": {
+        "value": "{palette.green.80}"
+      }
+    }
+  }
+}

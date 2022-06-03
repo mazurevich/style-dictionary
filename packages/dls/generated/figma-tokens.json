@@ -595,12 +595,12 @@
           }
         },
         "90": {
-          "value": "#548933",
+          "value": "#1768bb",
           "type": "color",
           "filePath": "core-set/palette.tokens.json",
           "isSource": true,
           "original": {
-            "value": "#548933",
+            "value": "#1768bb",
             "type": "color"
           },
           "attributes": {

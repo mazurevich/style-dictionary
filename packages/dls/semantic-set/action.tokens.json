@@ -3,7 +3,7 @@
     "tokenset": "set-semantic",
     "primary": {
       "base": {
-        "value": "{palette.blue.80}",
+        "value": "{palette.blue.70}",
         "type": "color"
       },
       "dark": {
@@ -11,7 +11,7 @@
         "type": "color"
       },
       "light": {
-        "value": "{palette.blue.60}",
+        "value": "{palette.blue.40}",
         "type": "color"
       }
     },

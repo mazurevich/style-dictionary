@@ -27,6 +27,18 @@
           "type": "color",
           "value": "{action.primary.dark}"
         }
+      },
+      "focus": {
+        "background": {
+          "type": "color",
+          "value": "{action.primary.dark}"
+        }
+      },
+      "disabled": {
+        "background": {
+          "type": "color",
+          "value": "{action.primary.light}"
+        }
       }
     }
   }

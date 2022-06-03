@@ -115,6 +115,54 @@
               "3": "background"
             }
           }
+        },
+        "focus": {
+          "background": {
+            "type": "color",
+            "value": "{action.primary.dark}",
+            "filePath": "button/button.tokens.json",
+            "isSource": true,
+            "original": {
+              "type": "color",
+              "value": "{action.primary.dark}"
+            },
+            "attributes": {
+              "category": "button",
+              "type": "primary",
+              "item": "focus",
+              "subitem": "background"
+            },
+            "path": {
+              "0": "button",
+              "1": "primary",
+              "2": "focus",
+              "3": "background"
+            }
+          }
+        },
+        "disabled": {
+          "background": {
+            "type": "color",
+            "value": "{action.primary.light}",
+            "filePath": "button/button.tokens.json",
+            "isSource": true,
+            "original": {
+              "type": "color",
+              "value": "{action.primary.light}"
+            },
+            "attributes": {
+              "category": "button",
+              "type": "primary",
+              "item": "disabled",
+              "subitem": "background"
+            },
+            "path": {
+              "0": "button",
+              "1": "primary",
+              "2": "disabled",
+              "3": "background"
+            }
+          }
         }
       }
     }
@@ -1328,12 +1376,12 @@
     "action": {
       "primary": {
         "base": {
-          "value": "{palette.blue.80}",
+          "value": "{palette.blue.70}",
           "type": "color",
           "filePath": "semantic-set/action.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{palette.blue.80}",
+            "value": "{palette.blue.70}",
             "type": "color"
           },
           "attributes": {
@@ -1368,12 +1416,12 @@
           }
         },
         "light": {
-          "value": "{palette.blue.60}",
+          "value": "{palette.blue.40}",
           "type": "color",
           "filePath": "semantic-set/action.tokens.json",
           "isSource": true,
           "original": {
-            "value": "{palette.blue.60}",
+            "value": "{palette.blue.40}",
             "type": "color"
           },
           "attributes": {

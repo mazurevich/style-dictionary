@@ -1,115 +1,4 @@
 {
-  "radius": {
-    "token-set": "set-core",
-    "xs": {
-      "value": "1px",
-      "type": "borderRadius",
-      "filePath": "core-set/radius.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "1px",
-        "type": "borderRadius"
-      },
-      "attributes": {
-        "category": "radius",
-        "type": "xs"
-      },
-      "path": {
-        "0": "radius",
-        "1": "xs"
-      }
-    },
-    "sm": {
-      "value": "2px",
-      "type": "borderRadius",
-      "filePath": "core-set/radius.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "2px",
-        "type": "borderRadius"
-      },
-      "attributes": {
-        "category": "radius",
-        "type": "sm"
-      },
-      "path": {
-        "0": "radius",
-        "1": "sm"
-      }
-    },
-    "md": {
-      "value": "4px",
-      "type": "borderRadius",
-      "filePath": "core-set/radius.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "4px",
-        "type": "borderRadius"
-      },
-      "attributes": {
-        "category": "radius",
-        "type": "md"
-      },
-      "path": {
-        "0": "radius",
-        "1": "md"
-      }
-    },
-    "lg": {
-      "value": "8px",
-      "type": "borderRadius",
-      "filePath": "core-set/radius.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "8px",
-        "type": "borderRadius"
-      },
-      "attributes": {
-        "category": "radius",
-        "type": "lg"
-      },
-      "path": {
-        "0": "radius",
-        "1": "lg"
-      }
-    },
-    "xl": {
-      "value": "16px",
-      "type": "borderRadius",
-      "filePath": "core-set/radius.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "16px",
-        "type": "borderRadius"
-      },
-      "attributes": {
-        "category": "radius",
-        "type": "xl"
-      },
-      "path": {
-        "0": "radius",
-        "1": "xl"
-      }
-    },
-    "xxl": {
-      "value": "32px",
-      "type": "borderRadius",
-      "filePath": "core-set/radius.tokens.json",
-      "isSource": true,
-      "original": {
-        "value": "32px",
-        "type": "borderRadius"
-      },
-      "attributes": {
-        "category": "radius",
-        "type": "xxl"
-      },
-      "path": {
-        "0": "radius",
-        "1": "xxl"
-      }
-    }
-  },
   "set-button": {
     "button": {
       "primary": {
@@ -1171,6 +1060,116 @@
         "path": {
           "0": "palette",
           "1": "white"
+        }
+      }
+    },
+    "radius": {
+      "xs": {
+        "value": "1px",
+        "type": "borderRadius",
+        "filePath": "core-set/radius.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "1px",
+          "type": "borderRadius"
+        },
+        "attributes": {
+          "category": "radius",
+          "type": "xs"
+        },
+        "path": {
+          "0": "radius",
+          "1": "xs"
+        }
+      },
+      "sm": {
+        "value": "2px",
+        "type": "borderRadius",
+        "filePath": "core-set/radius.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "2px",
+          "type": "borderRadius"
+        },
+        "attributes": {
+          "category": "radius",
+          "type": "sm"
+        },
+        "path": {
+          "0": "radius",
+          "1": "sm"
+        }
+      },
+      "md": {
+        "value": "4px",
+        "type": "borderRadius",
+        "filePath": "core-set/radius.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "4px",
+          "type": "borderRadius"
+        },
+        "attributes": {
+          "category": "radius",
+          "type": "md"
+        },
+        "path": {
+          "0": "radius",
+          "1": "md"
+        }
+      },
+      "lg": {
+        "value": "8px",
+        "type": "borderRadius",
+        "filePath": "core-set/radius.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "8px",
+          "type": "borderRadius"
+        },
+        "attributes": {
+          "category": "radius",
+          "type": "lg"
+        },
+        "path": {
+          "0": "radius",
+          "1": "lg"
+        }
+      },
+      "xl": {
+        "value": "16px",
+        "type": "borderRadius",
+        "filePath": "core-set/radius.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "16px",
+          "type": "borderRadius"
+        },
+        "attributes": {
+          "category": "radius",
+          "type": "xl"
+        },
+        "path": {
+          "0": "radius",
+          "1": "xl"
+        }
+      },
+      "xxl": {
+        "value": "32px",
+        "type": "borderRadius",
+        "filePath": "core-set/radius.tokens.json",
+        "isSource": true,
+        "original": {
+          "value": "32px",
+          "type": "borderRadius"
+        },
+        "attributes": {
+          "category": "radius",
+          "type": "xxl"
+        },
+        "path": {
+          "0": "radius",
+          "1": "xxl"
         }
       }
     },

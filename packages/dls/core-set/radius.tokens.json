@@ -1,6 +1,6 @@
 {
   "radius": {
-    "token-set": "set-core",
+    "tokenset": "set-core",
     "xs": {
       "value": "1px",
       "type": "borderRadius"
